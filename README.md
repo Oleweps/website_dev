@@ -1,0 +1,1 @@
+# "Beginner-friendly repository for website development enthusiasts to kickstart their journey. Explore fundamental concepts, step-by-step tutorials, and hands-on projects to gain practical experience in HTML, CSS, JavaScript, and more. Start building your own websites and gradually expand your skills in a supportive and learning-focused environment."
